@@ -1,0 +1,63 @@
+
+1.2.7 PRODUCCION BRUTA DE ENERGIA TERMOELECTRICA POR PROVINCIAS SEGUN EL COMBUSTIBLE. DATOS MENSUALES        OCTUBRE    2013
+       CENTRALES DE 1.000 kW O MAS
+
+
+                     COMBUSTIBLE                                                         OTROS
+                       NUCLEAR     CARBONES      LIGNITOS      FUEL      GAS NATURAL  COMBUSTIBLES     TOTAL
+PROVINCIA                MWh          MWh          MWh          MWh          MWh          MWh           MWh      PROVINCIA
+-------------------- -----------  -----------  -----------  -----------  -----------  -----------  ------------- ------------------
+ALAVA                          0            0            0            0       26.714        2.273         28.987 ALAVA
+ALBACETE                       0            0            0        8.229        2.341           66         10.636 ALBACETE
+ALICANTE                       0            0            0            0        7.650           66          7.716 ALICANTE
+ALMERIA                        0      631.431            0        7.756        1.476        1.054        641.717 ALMERIA
+AVILA                          0            0            0            0            0            0              0 AVILA
+BADAJOZ                        0            0            0            0        2.877            0          2.877 BADAJOZ
+BALEARES                       0      165.187            0       48.936      112.872       44.804        371.799 BALEARES
+BARCELONA                      0            0            0        7.614      592.004       27.693        627.311 BARCELONA
+BURGOS                         0            0            0            0       51.051       13.287         64.338 BURGOS
+CACERES                1.525.601            0            0            0            0            0      1.525.601 CACERES
+CADIZ                          0      342.483            0            0      407.761       15.378        765.622 CADIZ
+CASTELLON                      0            0            0            0      216.247       31.449        247.696 CASTELLON
+CIUDAD REAL                    0       21.566            0       16.021       69.295       49.083        155.965 CIUDAD REAL
+CORDOBA                        0      159.274            0            0       18.109       16.314        193.697 CORDOBA
+LA CORUÑA                      0      904.877            0       74.342      204.512       23.014      1.206.745 LA CORUÑA
+CUENCA                         0            0            0            0        7.845            0          7.845 CUENCA
+GIRONA                         0            0            0            0       43.620          696         44.316 GIRONA
+GRANADA                        0            0            0       11.413       31.404          254         43.071 GRANADA
+GUADALAJARA              787.260            0            0            0            0            0        787.260 GUADALAJARA
+GUIPUZCOA                      0            0            0            0       47.799       16.541         64.340 GUIPUZCOA
+HUELVA                         0            0            0        1.450      378.078       61.275        440.803 HUELVA
+HUESCA                         0            0            0            0       50.180        1.526         51.706 HUESCA
+JAEN                           0            0            0            0       94.780        1.489         96.269 JAEN
+LEON                           0      420.604            0        4.722       22.587       26.840        474.753 LEON
+LLEIDA                         0            0            0            0       58.205          260         58.465 LLEIDA
+LA RIOJA                       0            0            0            0       54.331        6.431         60.762 LA RIOJA
+LUGO                           0            0            0            0        1.965            0          1.965 LUGO
+MADRID                         0            0            0            0       69.178       28.732         97.910 MADRID
+MALAGA                         0            0            0            0      173.865        6.398        180.263 MALAGA
+MURCIA                         0            0            0            0      433.610        2.338        435.948 MURCIA
+NAVARRA                        0            0            0           50      104.237       27.110        131.397 NAVARRA
+ORENSE                         0            0            0       12.361        3.595        1.411         17.367 ORENSE
+ASTURIAS                       0    1.077.014            0       13.709       73.163      202.373      1.366.259 ASTURIAS
+PALENCIA                       0      135.604            0          599       31.642          243        168.089 PALENCIA
+LAS PALMAS                     0            0            0      261.166            0      161.484        422.650 LAS PALMAS
+PONTEVEDRA                     0            0            0        1.138            0       19.022         20.160 PONTEVEDRA
+SALAMANCA                      0            0            0            0       18.774            0         18.774 SALAMANCA
+S.C.TENERIFE                   0            0            0      152.000            0      130.452        282.452 S.C.TENERIFE
+CANTABRIA                      0       29.855            0          105       68.268        9.176        107.404 CANTABRIA
+SEGOVIA                        0            0            0            0       18.296            0         18.296 SEGOVIA
+SEVILLA                        0            0            0            0       12.346            0         12.346 SEVILLA
+SORIA                          0            0            0            0       39.013            0         39.013 SORIA
+TARRAGONA              2.234.300            0            0        2.109      238.532        7.606      2.482.547 TARRAGONA
+TERUEL                         0      410.189            0            0       19.591            0        429.780 TERUEL
+TOLEDO                         0            0            0            0      116.405           38        116.443 TOLEDO
+VALENCIA                  10.774            0            0            0      400.995        2.147        413.916 VALENCIA
+VALLADOLID                     0            0            0            0       40.691            0         40.691 VALLADOLID
+VIZCAYA                        0            0            0        1.303      296.623       40.672        338.598 VIZCAYA
+ZAMORA                         0            0            0           66        2.118            0          2.184 ZAMORA
+ZARAGOZA                       0            0            0            0      160.409       47.141        207.550 ZARAGOZA
+CEUTA                          0            0            0       18.208            0          285         18.493 CEUTA
+MELILLA                        0            0            0       17.762            0          295         18.057 MELILLA
+                     -----------  -----------  -----------  -----------  -----------  -----------  -------------
+T O T A L              4.557.935    4.298.085            0      661.063    4.825.054    1.026.713     15.368.849 T O T A L

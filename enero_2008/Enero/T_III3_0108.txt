@@ -1,0 +1,89 @@
+                             III-3  PRODUCCION DE ENERGIA ELECTRICA
+                       CENTRALES DE MAS DE 1000 kW DE POTENCIA INSTALADA                   Enero      2008
+----------------------------------------------------------------------------------------------------------
+                             CLASE      NUMERO     PRODUCCION      % INCREM.      PRODUCCION     %INCREME.
+          CUENCAS              DE         DE       MES ACTUAL      MISMO MES      ACUM.ANUAL     = PERIODO
+                            ENERGIA     CENTR.       (MWh)         AÑO ANTER         (MWh)       AÑO ANTE.
+----------------------------------------------------------------------------------------------------------
+
+NORTE                      HIDRAULICA     136         600.138          -47,7         600.138         -47,7
+                           EOLICA          58         752.057           48,3         752.057          48,3
+                           TERMICA        133       4.565.565           -9,4       4.565.565          -9,4
+                           TOTAL          327       5.917.760          -11,6       5.917.760         -11,6
+
+DUERO                      HIDRAULICA      62         355.019          -29,2         355.019         -29,2
+                           EOLICA          61         484.626          149,0         484.626         149,0
+                           TERMICA         34         941.547            1,2         941.547           1,2
+                           TOTAL          157       1.781.192            9,5       1.781.192           9,5
+
+TAJO                       HIDRAULICA      47          89.862          -64,2          89.862         -64,2
+                           EOLICA          16          86.494          108,1          86.494         108,1
+                           TERMICA         32       2.706.013           -2,5       2.706.013          -2,5
+                           T. NUCLEAR       2       2.254.824            0,0       2.254.824           0,0
+                           TOTAL           97       2.882.369           -6,1       2.882.369          -6,1
+
+GUADIANA                   HIDRAULICA       8           8.060        1.177,3           8.060       1.177,3
+                           EOLICA           5          27.298            0,0          27.298           0,0
+                           TERMICA         19       1.144.147            0,5       1.144.147           0,5
+                           TOTAL           32       1.179.505            3,6       1.179.505           3,6
+
+GUADALQUIVIR               HIDRAULICA      36          20.917          284,6          20.917         284,6
+                           EOLICA          29         136.798          449,0         136.798         449,0
+                           TERMICA         26         844.110           -0,4         844.110          -0,4
+                           TOTAL           91       1.001.825           14,1       1.001.825          14,1
+
+SUR                        HIDRAULICA      15          30.891            0,0          30.891           0,0
+                           EOLICA           4          13.955          114,4          13.955         114,4
+                           TERMICA         13       1.490.221           -6,0       1.490.221          -6,0
+                           TOTAL           32       1.535.067           -5,4       1.535.067          -5,4
+
+SEGURA                     HIDRAULICA       9          11.572           70,8          11.572          70,8
+                           EOLICA           4          26.982          422,9          26.982         422,9
+                           TERMICA         19       1.498.446           65,8       1.498.446          65,8
+                           TOTAL           32       1.537.000           67,9       1.537.000          67,9
+
+JUCAR                      HIDRAULICA      34         132.001           56,2         132.001          56,2
+                           EOLICA          53         548.977           93,4         548.977          93,4
+                           TERMICA         77       2.353.608           19,9       2.353.608          19,9
+                           T. NUCLEAR       1         644.779            0,0         644.779           0,0
+                           TOTAL          165       3.034.586           30,2       3.034.586          30,2
+
+EBRO                       HIDRAULICA     168         341.363           -8,9         341.363          -8,9
+                           EOLICA          56         488.017           86,8         488.017          86,8
+                           TERMICA         73       3.617.816           22,9       3.617.816          22,9
+                           T. NUCLEAR       3       1.856.463            0,0       1.856.463           0,0
+                           TOTAL          300       4.447.196           24,3       4.447.196          24,3
+
+PIRINEO ORIENTAL           HIDRAULICA      31          12.942          -26,2          12.942         -26,2
+                           EOLICA           5          53.843          428,0          53.843         428,0
+                           TERMICA         78       2.658.361           26,5       2.658.361          26,5
+                           T. NUCLEAR       1         804.170            0,0         804.170           0,0
+                           TOTAL          115       2.725.146           28,0       2.725.146          28,0
+
+BALEARES                   HIDRAULICA       0               0            0,0               0           0,0
+                           EOLICA           1             415            0,0             415           0,0
+                           TERMICA          9         525.190            3,4         525.190           3,4
+                           TOTAL           10         525.605            3,5         525.605           3,5
+                             III-3  PRODUCCION DE ENERGIA ELECTRICA
+                       CENTRALES DE MAS DE 1000 kW DE POTENCIA INSTALADA                   Enero      2008
+----------------------------------------------------------------------------------------------------------
+                             CLASE      NUMERO     PRODUCCION      % INCREM.      PRODUCCION     %INCREME.
+          CUENCAS              DE         DE       MES ACTUAL      MISMO MES      ACUM.ANUAL     = PERIODO
+                            ENERGIA     CENTR.       (MWh)         AÑO ANTER         (MWh)       AÑO ANTE.
+----------------------------------------------------------------------------------------------------------
+
+CANARIAS                   HIDRAULICA       0               0            0,0               0           0,0
+                           EOLICA           3          15.164          -24,7          15.164         -24,7
+                           TERMICA         18         815.802            3,0         815.802           3,0
+                           TOTAL           21         830.966            2,3         830.966           2,3
+
+CEUTA Y MELILLA            HIDRAULICA       0               0            0,0               0           0,0
+                           EOLICA           0               0            0,0               0           0,0
+                           TERMICA          2          36.597           11,8          36.597          11,8
+                           TOTAL            2          36.597           11,8          36.597          11,8
+
+TOTAL NACIONAL             HIDRAULICA     546       1.602.765          -33,8       1.602.765         -33,8
+                           EOLICA         295       2.634.626           94,4       2.634.626          94,4
+                           T. CONVENC     533      17.637.187           10,2      17.637.187          10,2
+                           T. NUCLEAR       7       5.560.236            0,0       5.560.236           0,0
+                           TOTAL        1.381      27.434.814            8,3      27.434.814           8,3

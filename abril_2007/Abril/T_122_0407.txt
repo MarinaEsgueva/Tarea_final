@@ -1,0 +1,63 @@
+
+1.2.2 CONSUMO DE COMBUSTIBLES EN CENTRALES TERMOELECTRICAS. DATOS MENSUALES                        ABRIL      2007
+       CENTRALES DE 1 MW O MAS
+
+
+                                                                          PODER           CONSUMO   PRODUCCION
+                                                                       CALO. INF.       ESPECIFICO     BRUTA
+                   CLASE DE COMBUSTIBLE            UNIDAD   CANTIDAD      kcal/kg         kcal/kWh       MWh
+                   ------------------------------ -------- ----------- --------------- ----------- -----------
+SERVICIOS PUBLICOS Hulla >= 5500 kcal-PCI/kg         t       1.243.363       5.850           2.294   3.170.911
+                   Hulla < 5500 kcal-PCI/kg          t         466.583       4.729           2.282     966.701
+                   Antracita >= 5500 kcal-PCI/kg     t          87.932       5.915           2.368     219.648
+                   Antracita < 5500 kcal-PCI/kg      t         453.276       4.658           2.359     895.121
+                   Hulla subbituminosa               t         366.880       3.390           2.361     526.686
+                   Lignito Pardo                     t         519.193       2.143           2.408     462.043
+                   Fuel-Oil                          t         145.422       9.599           2.318     602.207
+                   Otros productos petrolíferos      t          89.560       8.424           2.193     343.961
+                   Gas Natural                    MILES m3     663.032      10.000 (*)       1.758   3.770.966
+                   Gas de Horno Alto              MILES m3     169.522         785 (*)       2.201      60.466
+                   Otros Combustibles Gaseosos    MILES m3       8.849       4.241 (*)       2.227      16.853
+                   Otros Combust. Sólidos o Líqu.    t         143.609       4.519           2.205     294.295
+                   Recuperacíon de calor residual   Gcal             0                           0           0
+                   T O T A L ....................    t                           0           2.124  11.329.858
+
+
+
+AUTOPRODUCTORAS    Hulla >= 5500 kcal-PCI/kg         t           5.340       6.038           1.392      23.156
+                   Hulla < 5500 kcal-PCI/kg          t               0           0               0           0
+                   Antracita >= 5500 kcal-PCI/kg     t               0           0               0           0
+                   Antracita < 5500 kcal-PCI/kg      t               0           0               0           0
+                   Hulla subbituminosa               t               0           0               0           0
+                   Lignito Pardo                     t               0           0               0           0
+                   Fuel-Oil                          t          26.975       9.590           1.391     185.951
+                   Otros productos petrolíferos      t          21.603      10.816           1.366     171.091
+                   Gas Natural                    MILES m3     238.320       9.996 (*)       1.401   1.700.625
+                   Gas de Horno Alto              MILES m3       5.571       2.085 (*)       1.364       8.516
+                   Otros Combustibles Gaseosos    MILES m3       4.714       4.389 (*)       1.331      15.549
+                   Otros Combust. Sólidos o Líqu.    t         103.104       2.611           1.733     155.376
+                   Recuperacíon de calor residual   Gcal        37.760                       1.679      22.489
+                   T O T A L ....................    t                           0           1.422   2.282.753
+
+
+
+TOTAL NACIONAL     Hulla >= 5500 kcal-PCI/kg         t       1.248.703       5.851           2.287   3.194.067
+                   Hulla < 5500 kcal-PCI/kg          t         466.583       4.729           2.282     966.701
+                   Antracita >= 5500 kcal-PCI/kg     t          87.932       5.915           2.368     219.648
+                   Antracita < 5500 kcal-PCI/kg      t         453.276       4.658           2.359     895.121
+                   Hulla subbituminosa               t         366.880       3.390           2.361     526.686
+                   Lignito Pardo                     t         519.193       2.143           2.408     462.043
+                   Fuel-Oil                          t         172.397       9.597           2.099     788.158
+                   Otros productos petrolíferos      t         111.163       8.889           1.918     515.052
+                   Gas Natural                    MILES m3     901.352       9.999 (*)       1.647   5.471.591
+                   Gas de Horno Alto              MILES m3     175.093         826 (*)       2.098      68.982
+                   Otros Combustibles Gaseosos    MILES m3      13.563       4.293 (*)       1.797      32.402
+                   Otros Combust. Sólidos o Líqu.    t         246.713       3.722           2.042     449.671
+                   Recuperacíon de calor residual   Gcal        37.760                       1.679      22.489
+                   T O T A L ....................    t                           0           2.007  13.612.611
+
+
+
+
+
+                   (*) kcal/m3

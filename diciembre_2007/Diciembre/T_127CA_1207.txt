@@ -1,0 +1,52 @@
+
+
+1.2.7 PRODUCCION BRUTA DE ENERGIA TERMOELECTRICA POR AUTONOMIAS SEGUN EL COMBUSTIBLE. DATOS MENSUALES        DICIEMBRE  2007
+       CENTRALES DE 1.000 kW O MAS
+
+
+
+                               COMBUSTIBLE                                                         OTROS
+                                 NUCLEAR     CARBONES      LIGNITOS      FUEL      GAS NATURAL  COMBUSTIBLES     TOTAL
+          AUTONOMIA                MWh          MWh          MWh          MWh          MWh          MWh           MWh
+          -------------------- -----------  -----------  -----------  -----------  -----------  -----------  -------------
+          ANDALUCIA                      0    1.329.988            0       19.050    2.448.290       37.750      3.835.078
+
+          ARAGON                         0      627.934            0        2.409      559.135          219      1.189.697
+
+          CANARIAS                       0            0            0      489.653            0      318.077        807.730
+
+          CANTABRIA                      0       30.891            0           60        9.564           40         40.555
+
+          CASTILLA LA MANCHA       790.009      106.156            0       86.210      510.579       34.709      1.527.663
+
+          CASTILLA Y LEON          343.475    1.353.446            0       15.551      228.201      131.679      2.072.351
+
+          CATALUÑA               1.898.548       33.016            0        8.136    1.621.597       37.757      3.599.054
+
+          COMUNIDAD DE MADRID            0            0            0        4.140       78.969       23.194        106.303
+
+          COM.FORAL DE NAVARRA           0            0            0          245      440.708       24.610        465.563
+
+          COMUNID. VALENCIANA      807.509            0            0       15.884      951.652       24.713      1.799.758
+
+          EXTREMADURA            1.456.853            0            0            0        4.410            0      1.461.263
+
+          GALICIA                        0      843.835      444.657      125.020       68.413       98.249      1.580.174
+
+          ISLAS BALEARES                 0      270.668            0       91.754            0      142.531        504.953
+
+          LA RIOJA                       0            0            0            0      226.928          755        227.683
+
+          PAIS VASCO                     0      123.603            0       32.159      857.988       46.054      1.059.804
+
+          PRINCIP. DE ASTURIAS           0    1.307.853            0       32.660       20.645      156.673      1.517.831
+
+          REGION DE MURCIA               0            0            0        6.394    1.321.760       28.214      1.356.368
+
+          CEUTA                          0            0            0       18.199            0          398         18.597
+
+          MELILLA                        0            0            0       13.548            0        3.503         17.051
+
+
+                               -----------  -----------  -----------  -----------  -----------  -----------  -------------
+          T O T A L              5.296.394    6.027.390      444.657      961.072    9.348.839    1.109.125     23.187.476

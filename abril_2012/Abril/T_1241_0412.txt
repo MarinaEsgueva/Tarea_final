@@ -1,0 +1,61 @@
+
+1.2.4.1 BALANCE DE COMBUSTIBLES EN CENTRALES TERMOELECTRICAS. DATOS MENSUALES                      ABRIL      2012
+       CENTRALES DE 1 MW O MAS
+
+                                         EXISTENCIAS  COMPRAS                              CONSUMOS               EXISTENCIAS
+                                          A PRIMERO   MERCADO     IMPORTA-    DISPONI-   IMPUTABLES A    OTROS        EN
+CLASE DE COMBUSTIBLE             UNIDAD   DE MES      INTERIOR    CIONES      BILIDADES  ELECTRICIDAD   CONSUMOS  FIN DE MES
+------------------------------- -------- ----------- ----------- ----------- ----------- ------------ ----------- -----------
+SERVICIOS PUBLICOS
+
+ Hulla >= 5500 kcal-PCI/kg         t       2.507.567     141.531     745.751   3.394.849      607.898           0   2.786.951
+ Hulla < 5500 kcal-PCI/kg          t       2.645.735      70.289     383.881   3.099.905      376.962           0   2.722.943
+ Antracita >= 5500 kcal-PCI/kg     t         772.287      47.411           0     819.698       74.139           0     745.559
+ Antracita < 5500 kcal-PCI/kg      t       3.107.698     135.881           0   3.243.579       93.874           0   3.149.705
+ Hulla subbituminosa               t       2.843.848      37.730           0   2.881.578       48.736           0   2.832.842
+ Lignito Pardo                     t
+ Fuel-Oil                          t         184.329     107.739           0     292.068      124.263           0     167.805
+ Otros productos petrolíferos      t          90.625      52.671      17.372     160.668       70.042           0      90.626
+ Gas Natural                    MILES m3           0     515.500       7.889     523.389      521.897       1.492           0
+ Gas de Horno Alto              MILES m3           0     275.345           0     275.345      275.345           0           0
+ Otros Combustibles Gaseosos    MILES m3           0       1.914           0       1.914        1.914           0           0
+ Otros Combust. Sólidos o Líqu.    t         182.840     100.225           0     283.065      100.401           0     182.664
+ Recuperacíon de calor residual   Gcal
+
+
+
+
+AUTOPRODUCTORAS
+
+ Hulla >= 5500 kcal-PCI/kg         t          47.776           0           0      47.776        5.471      16.997      25.308
+ Hulla < 5500 kcal-PCI/kg          t
+ Antracita >= 5500 kcal-PCI/kg     t
+ Antracita < 5500 kcal-PCI/kg      t
+ Hulla subbituminosa               t
+ Lignito Pardo                     t
+ Fuel-Oil                          t          17.306      33.690           0      50.996       20.534      13.285      17.177
+ Otros productos petrolíferos      t           5.084      14.971          20      20.075        6.916       8.026       5.133
+ Gas Natural                    MILES m3       2.231     531.772           0     534.003      276.342     255.374       2.287
+ Gas de Horno Alto              MILES m3           0      15.073           0      15.073        4.144      10.929           0
+ Otros Combustibles Gaseosos    MILES m3           0       9.823           0       9.823        5.335       4.488           0
+ Otros Combust. Sólidos o Líqu.    t          83.873     281.423           0     365.296      202.328      83.035      79.933
+ Recuperacíon de calor residual   Gcal             0      29.996           0      29.996       12.718      17.278           0
+
+
+
+
+TOTAL NACIONAL
+
+ Hulla >= 5500 kcal-PCI/kg         t       2.555.343     141.531     745.751   3.442.625      613.369      16.997   2.812.259
+ Hulla < 5500 kcal-PCI/kg          t       2.645.735      70.289     383.881   3.099.905      376.962           0   2.722.943
+ Antracita >= 5500 kcal-PCI/kg     t         772.287      47.411           0     819.698       74.139           0     745.559
+ Antracita < 5500 kcal-PCI/kg      t       3.107.698     135.881           0   3.243.579       93.874           0   3.149.705
+ Hulla subbituminosa               t       2.843.848      37.730           0   2.881.578       48.736           0   2.832.842
+ Lignito Pardo                     t
+ Fuel-Oil                          t         201.635     141.429           0     343.064      144.797      13.285     184.982
+ Otros productos petrolíferos      t          95.709      67.642      17.392     180.743       76.958       8.026      95.759
+ Gas Natural                    MILES m3       2.231   1.047.272       7.889   1.057.392      798.239     256.866       2.287
+ Gas de Horno Alto              MILES m3           0     290.418           0     290.418      279.489      10.929           0
+ Otros Combustibles Gaseosos    MILES m3           0      11.737           0      11.737        7.249       4.488           0
+ Otros Combust. Sólidos o Líqu.    t         266.713     381.648           0     648.361      302.729      83.035     262.597
+ Recuperacíon de calor residual   Gcal             0      29.996           0      29.996       12.718      17.278           0

@@ -1,0 +1,106 @@
+                             III-3  PRODUCCION DE ENERGIA ELECTRICA
+                       CENTRALES DE MAS DE 1000 kW DE POTENCIA INSTALADA                   Diciembre  2013
+----------------------------------------------------------------------------------------------------------
+                             CLASE      NUMERO     PRODUCCION      % INCREM.      PRODUCCION     %INCREME.
+          CUENCAS              DE         DE       MES ACTUAL      MISMO MES      ACUM.ANUAL     = PERIODO
+                            ENERGIA     CENTR.       (MWh)         AÑO ANTER         (MWh)       AÑO ANTE.
+----------------------------------------------------------------------------------------------------------
+
+NORTE                      HIDRAULICA     157       1.043.637          -11,0      12.973.172          94,3
+                           EOLICA         142       1.283.743           -3,5      10.976.110          20,3
+                           ENE. SOLAR       7           1.584           24,3          35.795          17,9
+                           TERMICA        107       3.694.185            4,8      35.787.581         -24,0
+                           TOTAL          413       6.023.149           -0,1      59.772.658          -5,0
+
+DUERO                      HIDRAULICA      79         520.256           12,5       7.623.372          57,3
+                           EOLICA         169       1.066.193          -13,8      11.862.913           9,4
+                           ENE. SOLAR       9          38.979           27,3         846.658           2,9
+                           TERMICA         42         929.739           54,5       6.317.064         -29,0
+                           TOTAL          299       2.555.167            9,6      26.650.007           4,9
+
+TAJO                       HIDRAULICA      50         187.849          -36,9       3.290.315         145,2
+                           EOLICA          26         145.158          -23,5       1.602.225           2,7
+                           ENE. SOLAR       5          64.080           27,2       1.213.332          15,6
+                           TERMICA         31       1.752.047           -6,2      26.149.128          -7,1
+                           T. NUCLEAR       2       1.462.368            0,0      23.688.604           0,0
+                           TOTAL          114       2.149.134          -10,6      32.255.000           0,5
+
+GUADIANA                   HIDRAULICA       8             319          811,4         371.103          64,1
+                           EOLICA          18          81.761           21,3         995.007          -4,5
+                           ENE. SOLAR       5         127.245           36,3       3.121.232          28,1
+                           TERMICA         26         633.971           -1,0       5.292.048         -32,2
+                           TOTAL           57         843.296            5,3       9.779.390         -15,0
+
+GUADALQUIVIR               HIDRAULICA      44          31.907           -3,4         896.068          64,3
+                           EOLICA          78         436.424          135,9       4.128.126          28,6
+                           ENE. SOLAR      11         151.281           10,4       3.209.313           7,8
+                           TERMICA         39         699.961           32,3       5.969.345         -14,2
+                           TOTAL          172       1.319.573           49,2      14.202.852           3,7
+
+SUR                        HIDRAULICA      16          31.260          -11,5         422.668          53,5
+                           EOLICA          34         218.499           44,8       2.221.799          24,9
+                           ENE. SOLAR       2          13.307            0,8         240.098           6,3
+                           TERMICA         15       1.302.850           -7,2      13.026.725         -23,5
+                           TOTAL           67       1.565.916           -2,3      15.911.290         -17,6
+
+SEGURA                     HIDRAULICA      12          19.075            4,1         265.262          37,3
+                           EOLICA           9          40.263          -33,3         542.779          38,3
+                           ENE. SOLAR       1          37.730          -11,4         789.822           2,1
+                           TERMICA         15         377.177            1,2       4.204.073         -13,9
+                           TOTAL           37         474.245           -4,0       5.801.936          -7,1
+
+JUCAR                      HIDRAULICA      40         175.928            2,8       1.976.317          44,2
+                           EOLICA         113         763.514          -28,2       9.457.937          11,0
+                           ENE. SOLAR       7          87.635            2,6       1.623.212           0,0
+                           TERMICA         74       1.921.910           21,1      18.601.690         -14,5
+                           T. NUCLEAR       1         822.898            0,0       8.337.689           0,0
+                           TOTAL          235       2.948.987            1,5      31.659.156          -4,9
+
+EBRO                       HIDRAULICA     170         621.896            6,6      10.226.777          70,0
+                           EOLICA         106         678.265          -11,6       9.186.766           5,4
+                           ENE. SOLAR       7          34.994          -10,9         854.316           2,3
+                           TERMICA         69       2.280.984            5,0      23.459.900         -19,8
+                           T. NUCLEAR       2       1.542.800            0,0      16.644.750           0,0
+                           TOTAL          354       3.616.139            1,5      43.727.759          -2,4
+
+PIRINEO ORIENTAL           HIDRAULICA      35          33.115           15,4         541.145          32,5
+                             III-3  PRODUCCION DE ENERGIA ELECTRICA
+                       CENTRALES DE MAS DE 1000 kW DE POTENCIA INSTALADA                   Diciembre  2013
+----------------------------------------------------------------------------------------------------------
+                             CLASE      NUMERO     PRODUCCION      % INCREM.      PRODUCCION     %INCREME.
+          CUENCAS              DE         DE       MES ACTUAL      MISMO MES      ACUM.ANUAL     = PERIODO
+                            ENERGIA     CENTR.       (MWh)         AÑO ANTER         (MWh)       AÑO ANTE.
+----------------------------------------------------------------------------------------------------------
+
+                           EOLICA          22         181.022          -28,0       2.499.110          24,0
+                           ENE. SOLAR       4          15.846           18,8         329.562          34,8
+                           TERMICA         71       1.343.933          -26,9      18.762.379         -13,0
+                           T. NUCLEAR       1         335.100            0,0       8.060.290           0,0
+                           TOTAL          133       1.573.916          -26,2      22.132.196          -8,7
+
+BALEARES                   HIDRAULICA       0               0            0,0               0           0,0
+                           EOLICA           1             480          -35,7           6.024         -14,4
+                           ENE. SOLAR       1           6.143           -3,8         121.448          10,0
+                           TERMICA         11         367.545            4,8       4.615.602         -16,2
+                           TOTAL           13         374.168            4,6       4.743.074         -15,7
+
+CANARIAS                   HIDRAULICA       0               0            0,0               0           0,0
+                           EOLICA          14          28.867           30,5         412.085          10,0
+                           ENE. SOLAR       2          15.008          -11,7         279.511          15,4
+                           TERMICA         11         724.622           -1,8       8.382.404          -4,5
+                           TOTAL           27         768.497           -1,1       9.074.000          -3,4
+
+CEUTA Y MELILLA            HIDRAULICA       0               0            0,0               0           0,0
+                           EOLICA           0               0            0,0               0           0,0
+                           ENE. SOLAR       0               0            0,0               0           0,0
+                           TERMICA          2          38.236            2,6         436.129          -5,7
+                           TOTAL            2          38.236            2,6         436.129          -5,7
+
+TOTAL NACIONAL             HIDRAULICA     611       2.665.242           -4,9      38.586.199          76,2
+                           EOLICA         732       4.924.189           -7,5      53.890.881          13,2
+                           ENE. SOLAR      61         593.832           12,1      12.664.299          11,4
+                           T. CONVENC     513      11.903.994            7,2     114.272.735         -22,1
+                           T. NUCLEAR       6       4.163.166           -8,6      56.731.333          -7,6
+                           TOTAL        1.923      24.250.423           -0,3     276.145.447          -4,4
+
+NOTA: La energía solar incluye energía de origen fotovoltaico y de origen termosolar.

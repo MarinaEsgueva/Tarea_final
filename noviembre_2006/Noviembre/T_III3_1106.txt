@@ -1,0 +1,64 @@
+                             III-3  PRODUCCION DE ENERGIA ELECTRICA
+                       CENTRALES DE MAS DE 1000 kW DE POTENCIA INSTALADA                   Noviembre  2006
+----------------------------------------------------------------------------------------------------------
+                             CLASE      NUMERO     PRODUCCION      % INCREM.      PRODUCCION     %INCREME.
+          CUENCAS              DE         DE       MES ACTUAL      MISMO MES      ACUM.ANUAL     = PERIODO
+                            ENERGIA     CENTR.       (MWh)         AÑO ANTER         (MWh)       AÑO ANTE.
+----------------------------------------------------------------------------------------------------------
+
+NORTE                      HIDRAULICA     187       1.774.427           75,3      11.770.793          28,8
+                           TERMICA        130       3.619.589          -32,9      49.034.172          -5,3
+                           TOTAL          317       5.394.016          -15,8      60.804.965          -0,1
+
+DUERO                      HIDRAULICA     111         998.779          144,0       6.591.391          39,7
+                           TERMICA         35         767.016          -24,3       9.651.961         -10,3
+                           TOTAL          146       1.765.795           24,2      16.243.352           4,9
+
+TAJO                       HIDRAULICA      59         529.460          425,8       2.162.169          88,7
+                           TERMICA         38       2.385.921           -8,8      26.104.796          -3,3
+                           TOTAL           97       2.915.381            7,3      28.266.965           0,4
+
+GUADIANA                   HIDRAULICA       8          15.478          417,0         143.776         -31,1
+                           TERMICA         18         672.575           -3,6      10.421.794          23,1
+                           TOTAL           26         688.053           -1,8      10.565.570          21,8
+
+GUADALQUIVIR               HIDRAULICA      47          30.857          -21,6         574.558         -32,0
+                           TERMICA         28         995.680            2,6      12.706.199           6,6
+                           TOTAL           75       1.026.537            1,7      13.280.757           4,0
+
+SUR                        HIDRAULICA      15          45.992           13,4         519.542          -1,1
+                           TERMICA         13       1.202.561          -17,4      14.896.491         -14,6
+                           TOTAL           28       1.248.553          -16,6      15.416.033         -14,2
+
+SEGURA                     HIDRAULICA      15          11.070          -24,7         132.898         -21,4
+                           TERMICA         15         584.563          274,0       9.165.743         372,7
+                           TOTAL           30         595.633          248,3       9.298.641         341,1
+
+JUCAR                      HIDRAULICA      81         363.126            6,5       3.627.458           5,1
+                           TERMICA         74       1.556.413          -25,7      20.841.258           2,4
+                           TOTAL          155       1.919.539          -21,2      24.468.716           2,8
+
+EBRO                       HIDRAULICA     215         812.750            8,4       9.059.162           2,6
+                           TERMICA         76       2.850.396           17,0      30.051.122           3,7
+                           TOTAL          291       3.663.146           15,0      39.110.284           3,5
+
+PIRINEO ORIENTAL           HIDRAULICA      33          32.526          -22,9         489.299           8,2
+                           TERMICA         79       1.733.820          -18,7      20.857.488           1,7
+                           TOTAL          112       1.766.346          -18,8      21.346.787           1,8
+
+BALEARES                   HIDRAULICA       0               0            0,0               0           0,0
+                           TERMICA          9         401.600           -4,9       5.748.182           3,2
+                           TOTAL            9         401.600           -4,9       5.748.182           3,2
+
+CANARIAS                   HIDRAULICA       2           1.129          -95,6         288.070          -1,9
+                           TERMICA         19         769.412            5,3       8.250.078           3,6
+                           TOTAL           21         770.541            1,9       8.538.148           3,4
+
+CEUTA Y MELILLA            HIDRAULICA       0               0            0,0               0           0,0
+                           TERMICA          2          30.062           -2,1         354.272           5,2
+                           TOTAL            2          30.062           -2,1         354.272           5,2
+
+TOTAL NACIONAL             HIDRAULICA     773       4.615.594           66,1      35.359.116          18,7
+                           T. CONVENC     529      12.263.712          -16,7     163.667.725           1,5
+                           T. NUCLEAR       7       5.305.896           -2,2      54.415.831           5,2
+                           TOTAL        1.309      22.185.202           -3,2     253.442.672           4,4

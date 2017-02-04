@@ -1,0 +1,52 @@
+
+
+1.2.6 PRODUCCION BRUTA Y DISPONIBLE POR AUTONOMIAS. DATOS ACUMULADOS                               MAYO       2006
+       CENTRALES DE 1.000 kW O MAS
+
+
+
+                     PRODUCCION BRUTA EXPRESADA EN MWh                  PRODUCCION DISPONIBLE EXPRESADA EN MWh
+                     -------------------------------------              --------------------------------------
+AUTONOMIA            HIDROELECT. TERMOELECT.   TOTAL         BOMBEO     HIDROELECT. TERMOELECT.   TOTAL         AUTONOMIA
+-------------------- ----------- ------------- ------------- ---------- ----------- ------------- ------------- --------------------
+ANDALUCIA                446.038    15.474.037    15.920.075    281.036     154.922    14.990.262    15.145.184 ANDALUCIA
+
+ARAGON                 1.764.065     4.126.940     5.891.005    175.770   1.561.354     3.886.578     5.447.932 ARAGON
+
+CANARIAS                 129.442     3.597.639     3.727.081          0     129.086     3.388.318     3.517.404 CANARIAS
+
+CANTABRIA                373.693       395.087       768.780    316.332      51.188       370.173       421.361 CANTABRIA
+
+CASTILLA LA MANCHA     1.706.254     6.683.539     8.389.793    185.316   1.516.408     6.242.794     7.759.202 CASTILLA LA MANCHA
+
+CASTILLA Y LEON        3.299.750     8.963.559    12.263.309    438.829   2.831.667     8.417.092    11.248.759 CASTILLA Y LEON
+
+CATALUÑA               1.681.072    16.254.710    17.935.782    240.026   1.408.448    15.609.727    17.018.175 CATALUÑA
+
+COMUNIDAD DE MADRID       24.443       526.660       551.103          0      23.725       487.061       510.786 COMUNIDAD DE MADRID
+
+COM.FORAL DE NAVARRA     994.136     1.338.649     2.332.785          0     988.932     1.306.511     2.295.443 COM.FORAL DE NAVARRA
+
+COMUNID. VALENCIANA      407.138     6.579.912     6.987.050    331.243      69.441     6.367.126     6.436.567 COMUNID. VALENCIANA
+
+EXTREMADURA              411.971     6.350.832     6.762.803     34.696     369.974     6.125.154     6.495.128 EXTREMADURA
+
+GALICIA                4.735.347     7.112.280    11.847.627    137.063   4.514.041     6.758.542    11.272.583 GALICIA
+
+ISLAS BALEARES                 0     2.385.544     2.385.544          0           0     2.236.665     2.236.665 ISLAS BALEARES
+
+LA RIOJA                 264.412     1.769.335     2.033.747          0     264.300     1.727.994     1.992.294 LA RIOJA
+
+PAIS VASCO               233.606     5.330.061     5.563.667          0     232.289     5.180.626     5.412.915 PAIS VASCO
+
+PRINCIP. DE ASTURIAS   1.118.676     6.535.437     7.654.113     37.912   1.061.327     6.145.096     7.206.423 PRINCIP. DE ASTURIAS
+
+REGION DE MURCIA          40.744     4.377.631     4.418.375          0      40.575     4.292.413     4.332.988 REGION DE MURCIA
+
+CEUTA                          0        85.694        85.694          0           0        81.162        81.162 CEUTA
+
+MELILLA                        0        71.502        71.502          0           0        67.534        67.534 MELILLA
+
+
+                     ----------- ------------- ------------- ---------- ----------- ------------- -------------
+T O T A L             17.630.787    97.959.048   115.589.835  2.178.223  15.217.677    93.680.828   108.898.505 T O T A L
