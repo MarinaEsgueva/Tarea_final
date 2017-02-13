@@ -1,8 +1,4 @@
-#Descargamos los html con los códigos de las comunidades autonomas y de las provinvcas
 
-#wget --html-extension http://www.ine.es/daco/daco42/codmun/cod_ccaa.htm 
-#wget --html-extension http://www.ine.es/daco/daco42/codmun/cod_provincia.htm
-#
 
 mkdir 01_ANDALUCIA
 cd 01_ANDALUCIA
