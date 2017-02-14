@@ -15,7 +15,7 @@ do
 done
 
 
-for j in enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre diciembre
+for j in enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre 
 do
     wget   http://www.minetad.gob.es/energia/balances/Publicaciones/ElectricasMensuales/2009/$j\ 2009.zip
     unzip $j\ 2009.zip -d $j\_2009  
@@ -23,9 +23,18 @@ do
     rm -r $j\_2009/*/ 
 done
 
+
+wget   http://www.minetad.gob.es/energia/balances/Publicaciones/ElectricasMensuales/2009/Diciembre_2009.zip
+unzip Diciembre_2009.zip -d diciembre\_2009  
+mv diciembre\_2009/*/*.txt diciembre\_2009
+rm -r diciembre\_2009/*/ 
+
+
+
+
 for j in enero febrero marzo abril 
 do
-    wget   http://www.minetad.gob.es/energia/balances/Publicaciones/ElectricasMensuales/2009/$j\ 2009.zip
+    wget   http://www.minetad.gob.es/energia/balances/Publicaciones/ElectricasMensuales/2015/$j\_2015.zip
     unzip $j\_2015.zip -d $j\_2015 
     mv $j\_2015/*/*.txt $j\_2015
     rm -r $j\_2015/*/ 

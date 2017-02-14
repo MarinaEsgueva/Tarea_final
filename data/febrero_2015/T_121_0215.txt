@@ -1,0 +1,59 @@
+
+
+               1.2.1a           ENERGIA DISPONIBLE Y DEMANDA NETA.- DATOS MENSUALES (*)    FEBRERO     2015
+
+
+
+                                             DATOS DEL MES (GWh)
+                                       -------------------------------  % INCREMENTO
+                                        SERVICIO     AUTO-                MISMO MES
+                                         PUBLICO  PRODUCTORAS   TOTAL   AÑO ANTERIOR
+                                       -------------------------------------------------
+
+
+              PRODUCCION BRUTA:
+
+              HIDROELECTRICA .......         3.660         55      3.715        -37,6
+              EOLICA ...............         6.033          0      6.033         +2,8
+              ENERGÍA SOLAR ** .....           700          0        700        +30,8
+              TERMICA-CARBON .......         3.098         18      3.116       +237,2
+              TERMICA-FUEL .........           478        167        645         +7,9
+              TERMICA-GAS ..........         1.884      1.698      3.582        +15,3
+              TERMICA-OTROS ........           568        323        891        +21,6
+              NUCLEAR ..............         4.914          0      4.914         -0,1
+                                         ---------  ---------  ---------
+                  TOTAL P. BRUTA ...        21.335      2.261     23.596         +4,2
+
+
+
+
+              HIDROELECTRICA .......         3.614         53      3.667        -37,8
+              EOLICA ...............         5.964          0      5.964         +2,8
+              ENERGÍA SOLAR ** .....           682          0        682        +28,7
+              TERMOELECTRICA .......         5.667      2.120      7.787        +52,8
+              NUCLEAR ..............         4.719          0      4.719         -0,1
+                                         ---------  ---------  ---------
+                  TOTAL P. NETA  ....       20.646      2.173     22.819         +3,5
+
+
+
+
+              CONSUMO BOMBEO .......           497          0        497         -6,4
+              EXPORTACIONES ........         1.149          0      1.149        -18,1
+              IMPORTACIONES ........           587          0        587        -35,6
+                                         ---------  ---------  ---------
+              ENERGIA DISPONIBLE ...        19.587      2.173     21.760         +3,5
+
+
+
+
+              PERDIDA TRANSP Y DISTR         1.910        212      2.122         +3,5
+                                         ---------  ---------  ---------
+              DEMANDA NETA .........        17.677      1.961     19.638         +3,5
+
+
+
+
+
+              (*)  - No incluye las centrales con una potencia instalada inferior a 1 MW.
+              (**) - Incluye energía de origen fotovoltaico y de origen termosolar.
