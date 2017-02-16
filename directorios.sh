@@ -1,4 +1,5 @@
-
+mkdir series
+cd series
 
 mkdir 01_ANDALUCIA
 cd 01_ANDALUCIA
