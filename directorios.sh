@@ -1,3 +1,5 @@
+#El script "directorios.sh" genera en el directorio series todos los directorios correspondientes a las comunidades autónomas. Los directorios son de la forma: 
+#codigo_comunidad. Dentro del directorio de cada comunidad se generan los directorios de sus provincias, con la forma código_provincia. 
 mkdir series
 cd series
 
